@@ -1,0 +1,7 @@
+{
+  "name": "Life Replay",
+  "description": "A futuristic personal dashboard and digital diary with playful insights, interactive time tracking, and pattern detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
